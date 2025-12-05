@@ -113,7 +113,7 @@ Payload:
 ```
 teams
 players
-player_team
+team_players
 ```
 
 ---
